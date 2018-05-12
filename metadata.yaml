@@ -32,6 +32,8 @@ creator:
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13092#As-Farpas--Chronica-Mensal-da-Politica-das-Letras-e-dos-Costumes--1878-01-
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
